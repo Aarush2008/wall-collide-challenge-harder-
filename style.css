@@ -1,0 +1,12 @@
+html {
+  background-color: rgb(90, 173, 134);
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+canvas {
+  background-color: rgb(255, 255, 255);
+}
